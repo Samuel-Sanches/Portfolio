@@ -1,5 +1,5 @@
-# Portifolio
-Portifólio iChacon
+# Portfolio
+Portfólio iChacon
 
 ## Tarefas 
 O controle de tarefas sera realizado no GitHub.
