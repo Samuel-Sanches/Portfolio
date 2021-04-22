@@ -84,11 +84,6 @@ header {
 
 }
 
-.banner button:hover{
-    opacity: 0.7;
-
-}
-
 @keyframes moveBanner {
     0%{
         transform: translateY(10rem) rotateY(-30deg);
@@ -97,6 +92,10 @@ header {
         transform: translateY(0) rotateY(0);
         opacity: 1;
     }
+}
+.banner button:hover{
+    color:#000;
+
 }
 
 
