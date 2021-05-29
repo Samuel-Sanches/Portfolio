@@ -384,6 +384,8 @@ header {
     font-weight: 400;
     width: 80%;
     margin-bottom: 2rem;
+    font-size: 1rem;
+
 }
 
 .card-info button {
