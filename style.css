@@ -598,6 +598,7 @@ header {
     height: 2rem;
     text-transform: uppercase;
     grid-column: 2;
+    grid-row: 8;
     cursor: pointer;
     font-size: 1rem;
 }
@@ -653,6 +654,12 @@ footer {
     color: #fff;
     border-radius: .3rem;
     box-shadow: 0 0.1rem 0.6rem #0000009;
+}
+
+.PO {
+    font-family: var(--font-secundary);
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
 
